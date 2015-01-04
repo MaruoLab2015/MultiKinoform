@@ -451,7 +451,7 @@
                </widget>
               </item>
               <item>
-               <widget class="QComboBox" name="windowSizeComboBox">
+               <widget class="QComboBox" name="bmpSizeComboBox">
                 <item>
                  <property name="text">
                   <string>1024</string>
