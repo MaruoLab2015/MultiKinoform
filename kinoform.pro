@@ -14,12 +14,14 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    bmplabel.cpp
+    bmplabel.cpp \
+    dft.cpp
 
 HEADERS  += mainwindow.h \
     bmplabel.h \
     kernelfunction.h \
     DynamicArray2D.h \
+    dft.h \
     dft.h
 
 FORMS    += mainwindow.ui
