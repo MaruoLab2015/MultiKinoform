@@ -1,3 +1,3 @@
 # MultiKinoform
 
-This is a display multi kinoform application by Qt
+MultiKinoform is an application to display kinoform for SLM by Qt
